@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1635276131 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"miBiblioteca.h"
+
+1635280874 c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\bicicleta.h
+	"tipos.h"
+	"color.h"
+	"servicios.h"
+
+1635272264 c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\mibiblioteca.h
+
+1635272264 c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\tipos.h
+
+1635272264 c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\color.h
+
+1635273021 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"color.h"
+
+1635276357 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"miBiblioteca.h"
+	"bicicleta.h"
+	"color.h"
+	"servicios.h"
+	"tipos.h"
+	"trabajo.h"
+	"dataWereHouse.h"
+
+1635272264 c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\servicios.h
+
+1635272734 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"miBiblioteca.h"
+
+1635276196 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"servicios.h"
+
+1635187025 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tipos.h"
+
+1635275646 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\datawerehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"dataWereHouse.h"
+	"trabajo.h"
+	"bicicleta.h"
+
+1635275762 c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\datawerehouse.h
+	"bicicleta.h"
+	"trabajo.h"
+
+1635186816 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+
+1635272264 c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\trabajo.h
+	"bicicleta.h"
+	"miBiblioteca.h"
+	"servicios.h"
+	"color.h"
+	"tipos.h"
+	"fecha.h"
+
+1635272264 c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\fecha.h
+
+1635280874 source:c:\users\franc\onedrive\escritorio\carrera\programacion 1\buonfrate.franco.p1labi1a\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"trabajo.h"
+	"bicicleta.h"
+	"miBiblioteca.h"
+	"servicios.h"
+	"color.h"
+	"tipos.h"
+	"fecha.h"
+
